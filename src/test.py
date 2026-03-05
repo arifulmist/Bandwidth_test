@@ -1,6 +1,4 @@
-# Source - https://stackoverflow.com/a/52337115
-# Posted by Piotr Jasiek
-# Retrieved 2026-03-05, License - CC BY-SA 4.0
+
 
 import time
 import platform
